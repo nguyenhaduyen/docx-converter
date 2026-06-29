@@ -1,0 +1,8 @@
+{
+  "name": "docx-converter",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mammoth": "^1.6.0"
+  }
+}
